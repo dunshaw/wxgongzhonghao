@@ -1,7 +1,7 @@
 //配置对象模块
 
 module.exports = {
-    token:'sdfdsfdsfdsf',
-    appID:'wxc5sd2def3fd',
-    appsecret:'v2v2v23r32rdsf34fg'
+    token:'bhrl2019jsfazx',
+    appID:'wxa4f131d72f48c8b7',
+    appsecret:'dd316ac575ea005a746a1bb5e52bd909'
 }
